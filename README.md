@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 📊 E-Commerce Sales Analysis Dashboard
 
 ## 🚀 Overview
@@ -91,6 +92,8 @@ An interactive dashboard was built using **Power BI** to support data-driven dec
 - Used for exploratory data analysis and dashboard creation  
 
 ---
+## 📜 License
+This project is licensed under the MIT License.
 
 ## 🧠 Learnings
 - Performed end-to-end data analysis  
