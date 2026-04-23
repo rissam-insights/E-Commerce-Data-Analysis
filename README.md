@@ -1,5 +1,6 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 📊 E-Commerce Sales Analysis Dashboard
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🚀 Overview
 This project analyzes e-commerce sales data to uncover insights on revenue, profit, product performance, and customer behavior.  
