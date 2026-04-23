@@ -99,5 +99,4 @@ An interactive dashboard was built using **Power BI** to support data-driven dec
 
 ---
 
-## 🔗 Project Link
-(Add your Power BI / GitHub link here)
+
